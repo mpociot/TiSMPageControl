@@ -15,9 +15,13 @@ The precompiled zip file is pushed to github, as there no longer is a "Downloads
 * Image Masks as Indicators
 * Per-Indicator customization
 
+![Screenshot](http://www.marcelpociot.de/github/smpagecontrol.png)
+
 ## More Info
 
 The original library for this project can be found [here](https://github.com/Spaceman-Labs/SMPageControl/).
+
+
 
 LICENSE
 -------------------------
